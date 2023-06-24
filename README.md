@@ -1,4 +1,4 @@
-# LED pwm fader with arduino uno
+# LED pwm fader with arduino uno 💡
 
 ### Problem: No aftermarket lights for my car
 
