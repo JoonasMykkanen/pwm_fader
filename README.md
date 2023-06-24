@@ -13,7 +13,7 @@ It was a nice first touch to embedded systems and actually making something happ
 Problems I encountered were not well documentated and it took waaaay too much time to figure them out,
 but it was just that much more satisfying when it finally did work.
 
-#### Linear or logarithmic?
+### Linear or logarithmic?
 Biggest challenge of this project was that human eye does not see brightness (nits) linearly... 
 
 It should be logarithmic💡
@@ -23,7 +23,7 @@ seemed to be working nicely (it was basic while; loop) my brightness was not mat
 
 After few days I found out another implementation of led fading in and out that was using logarithmic approach. It worked instantly. Now my log was weird since it was not going smoothly from 0 to 100 brightness but the gradient were smooth. Damn human eyes so weird👀
 
-#### Arduino limitations
+### Arduino limitations
 First I tried to solve this with hardware only, capacitors and power drain circuits but it was a mess, I had no experience
 with circuits or electrical engineering and I just could not make it work.
 
