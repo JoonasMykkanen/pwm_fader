@@ -2,4 +2,5 @@
 
 ## originally designed for my bmw e46 anglel eyes
 
-<img "./resources/IMG_3918.jpeg">
+<img src="./resources/IMG_3918.jpeg">
+<img src="./resources/fade_in.gif">
