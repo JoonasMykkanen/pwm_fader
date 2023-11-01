@@ -33,3 +33,4 @@ some super weird code to take use of it, My gradient started working nicely.
 
 ## Implementation:
 <img src="./resources/tt_shunt.png">
+credit: http://joost.damad.be/2012/09/dimming-12v-led-strip-with-mosfet-and.html
